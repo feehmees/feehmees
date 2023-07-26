@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6272a4&height=120&section=header"/>
 
 # 💫 About Me:
-Estudo administração na FEA USP e sou membro da FEA.dev, entidade estudantil com objetivo de aproximar o mundo dos negócios com a programação.
-
+I study business administration at FEA USP e I´m part of FEA.dev, a student group that study and teach programming and business.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fernanda-mees-antunes-056a18243/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@FEADev) 
