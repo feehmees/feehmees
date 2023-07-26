@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6272a4&height=120&section=header"/>
+
 ## 💫 About Me:
 I study business administration at FEA USP e I´m part of FEA.dev, a student group that study and teach programming and business.
 
