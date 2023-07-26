@@ -8,8 +8,7 @@ I study business administration at FEA USP e I´m part of FEA.dev, a student gro
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fernanda-mees-antunes-056a18243/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@FEADev) 
 
-## 🌐 Tools:
-<h1> Linguagens e ferramentas </h1>
+## 🌐 Tools and languages:
 <img alt = "vscode" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img alt = "python" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img alt = " jupyter" height = "80" width = "80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
