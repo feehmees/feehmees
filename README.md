@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6272a4&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6272a4&size=35&center=true&vCenter=true&width=1000&lines=Welcome!👋)](https://git.io/typing-svg)
+
 ## 💫 About Me:
 I study business administration at FEA USP e I´m part of FEA.dev, a student group that study and teach programming and business.
 
