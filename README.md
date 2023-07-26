@@ -31,5 +31,14 @@ I study business administration at FEA USP e I´m part of FEA.dev, a student gro
 ---
 [![](https://visitcount.itsvg.in/api?id=feehmees&icon=5&color=7)](https://visitcount.itsvg.in)
 
+<div align = "center" >
+<img alt = "snake gif" src="https://github.com/GvFreitas1/GvFreitas1/blob/output/snake_gif_github.svg" />
+<br>
+<br>
+<p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img src="https://profile-counter.glitch.me/{lauposergio}/count.svg" /></p> 
+</div>
+      
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
