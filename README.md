@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6272a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6272a4&size=35&center=true&vCenter=true&width=1000&lines=Welcome!👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6272a4&size=35&center=true&vCenter=true&width=1000&lines=Welcome to my profile!👋)](https://git.io/typing-svg)
 
 ## 💫 About Me:
 I study business administration at FEA USP e I´m part of FEA.dev, a student group that study and teach programming and business.
@@ -21,8 +21,6 @@ I study business administration at FEA USP e I´m part of FEA.dev, a student gro
 ![](https://github-readme-streak-stats.herokuapp.com/?user=feehmees&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=feehmees&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=feehmees&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=feehmees&limit=5&theme=radical&combine_all_yearly_contributions=true)
