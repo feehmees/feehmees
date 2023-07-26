@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6272a4&height=120&section=header"/>
+
 # 💫 About Me:
 Estudo administração na FEA USP e sou membro da FEA.dev, entidade estudantil com objetivo de aproximar o mundo dos negócios com a programação.
 
@@ -15,8 +17,6 @@ Estudo administração na FEA USP e sou membro da FEA.dev, entidade estudantil c
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=feehmees&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=feehmees&icon=5&color=7)](https://visitcount.itsvg.in)
