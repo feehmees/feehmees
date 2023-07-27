@@ -45,7 +45,7 @@ I study business administration at FEA USP e I´m part of FEA.dev, a student gro
 <br>
 <br>
 <p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img src="https://profile-counter.glitch.me/{lauposergio}/count.svg" /></p> 
+<p align="center"><img src="https://profile-counter.glitch.me/{feehmees}/count.svg" /></p> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6272a4&height=120&section=footer"/>
 </div>
