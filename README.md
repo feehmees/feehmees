@@ -17,7 +17,8 @@ I study business administration at FEA USP e I´m part of FEA.dev, a student gro
 
 <div align= "center">
       
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](/https://www.linkedin.com/in/fernanda-mees-antunes-056a18243/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@FEADev) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/
+fernanda-mees-antunes-056a18243) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@FEADev) 
 
 ## 🌐 Tools and languages:
 <br>
